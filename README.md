@@ -3,9 +3,13 @@
 2 - Depois instalado, por padrão, o XAMPP é instalado em C:\xampp. Abra o XAMPP, inicie o servidor Apache e clone o repositório na pasta htdocs em C:\xampp\htdocs.
 
 3 - Após clonado, navegue até o repositório pelo terminal windows ou GIT Bash e rode os comando abaixo:
-    * composer install (instalar o Lumen PHP Framework)
-    * npm install	
-    * npm require dev
+    * ES6/ES7	
+* Código limpo	
+* Criatividade em encontrar a melhor solução
+* Reutilização	
+* Documentação
+* SEO	
+* Segurança da informação
 
 4 - Após as intalações, o projeto estará acessivel em http://localhost/full-stack-test/public/home.
 

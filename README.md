@@ -10,7 +10,7 @@
 Caso tenha outro servidor rodando PHP, desconsidere a instalação do XAMPP.
 
 
-# Olá candidato	# Lumen PHP Framework
+# Olá candidato
 
 Bem vindo ao teste para desenvolvedor Full Stack da Seraph! Vamos Avaliar o seu conhecimento técnico em JavaScript, técnicas de desenvolvimento e arquitetura, uso ferramentas auxiliares e lógica. Boa sorte!	
 

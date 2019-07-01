@@ -7,6 +7,8 @@
     * npm install 
     * npm require dev
 
+4 - Após as intalações, o projeto estará acessivel em http://localhost/full-stack-test/public/home.
+
 Caso tenha outro servidor rodando PHP, desconsidere a instalação do XAMPP.
 
 
